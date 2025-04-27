@@ -23,8 +23,7 @@ export default function RootLayout({
       appearance={{
         baseTheme: dark,
       }}
-    >
-      
+    > 
       <html lang='en'>
         <body className={`${inter.className} bg-dark-1`}>
         <div className="w-full flex justify-center items-center min-h-screen">
